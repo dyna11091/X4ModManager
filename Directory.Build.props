@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup Condition="'$(X4MMBuildRoot)' != ''">
+    <BaseOutputPath>$(X4MMBuildRoot)\bin\$(MSBuildProjectName)\</BaseOutputPath>
+    <BaseIntermediateOutputPath>$(X4MMBuildRoot)\obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+    <DefaultItemExcludes>$(DefaultItemExcludes);bin\**;obj\**</DefaultItemExcludes>
+  </PropertyGroup>
+</Project>
+
