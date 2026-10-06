@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <AssemblyName>X4ModManager</AssemblyName>
     <RootNamespace>X4ModManager</RootNamespace>
-    <Version>0.2.0</Version>
+    <Version>0.2.1</Version>
     <Product>X4 mod管理器</Product>
     <Description>轻量级 X4: Foundations 本地 MOD 管理器</Description>
     <ApplicationIcon>Assets\X4ModManager.ico</ApplicationIcon>
